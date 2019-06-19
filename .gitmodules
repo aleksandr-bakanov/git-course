@@ -1,0 +1,3 @@
+[submodule "git-course-upstream"]
+	path = git-course-upstream
+	url = git@github.com:aleksandr-bakanov/git-course-upstream.git
