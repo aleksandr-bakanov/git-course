@@ -1,0 +1,3 @@
+[submodule "exons"]
+	path = exons
+	url = git@github.com:aleksandr-bakanov/exons.git
